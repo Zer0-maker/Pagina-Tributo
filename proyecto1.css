@@ -1,0 +1,94 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+/*Principal*/
+#main{
+    display: block;
+    width: 100%;
+    background-color: black;
+    color: aliceblue;
+    font-size: 16px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+/*Header*/
+
+#header{
+    background-color: black;
+    text-align: center;
+}
+
+/*Titulo*/
+
+#title{
+    font-size: 3em;
+}
+
+
+/*Contenedor de Imagen*/
+
+#img-div{
+ background-color: white;
+}
+
+#image{
+    display: block;
+    margin: auto;
+    margin-top: 1rem;
+    max-width: 1024px;
+    width: 100%;
+}
+
+/*Descripcion de la i magen */
+
+#img-caption{
+    display: block;
+    font-size: .9em;
+    color: black;
+    font-family: cursive;
+    text-align: center;
+    margin: 10px 0px 20px 0px;
+}
+
+/*Informacion*/
+
+#tribute-info{
+    display: block;
+    margin: 5px 0px 5px 0px;
+    padding: 1%;
+}
+
+/*subtitulos de la infomrcaion*/
+
+.bio{
+    font-size: 1.5em;
+    text-align:center;
+}
+
+/*contenedor de la informacion*/
+
+.container{
+    font-size: .9em;
+    text-align: center;
+    padding: 1%;
+
+}
+
+/*footer*/
+
+#footer{
+    font-size: .8em;
+    text-align: center;
+    padding: 2%;
+}
+
+
+/*hipervinculos*/
+
+#tribute-link{
+    color: rgb(172, 179, 185);
+    text-decoration: none;
+}
